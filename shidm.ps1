@@ -1,5 +1,5 @@
 
-# Check the instructions here on how to use it https://github.com/samir1101/IDM-Script-Activation/wiki
+
 
 $ErrorActionPreference = "Stop"
 # Enable TLSv1.2 for compatibility with older clients
